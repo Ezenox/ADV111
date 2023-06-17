@@ -1,0 +1,39 @@
+body
+{
+  color: rgb(153, 153, 153);
+  background: rgb(128, 90, 150);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(255, 255, 255);
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: rgb(0, 0, 0);
+}
+.emotion_name
+{
+  font-size: 48px;
+}
+.emoji
+{
+  font-size: 48px;
+}
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 18px;
+  color: #47b80e;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
